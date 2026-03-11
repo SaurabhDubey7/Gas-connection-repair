@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="fixed top-0 w-full bg-white shadow-md z-50">
       <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
         <h1 className="text-xl font-bold text-blue-700">
-          Expert Gas Repair
+          Ujjwal Gas Stove Door Step Service
         </h1>
 
         <div className="hidden md:flex gap-6 font-medium">

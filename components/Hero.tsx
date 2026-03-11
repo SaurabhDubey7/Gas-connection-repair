@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Hero() {
   const images = [
     "/images/image-1.webp",
-    "/images/image-2.webp",
+    "/images/image-2.png",
   ];
   const [current, setCurrent] = useState(0);
 
